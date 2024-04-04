@@ -1,12 +1,12 @@
 # Esha Thakur 
-![me](image.png)
+![me](esha.jpg)
 ## *About Me :* 
 - **Age :** 20  
 - **Zodiac Sign :** Libra  
 - **School :** UCSD  
 - **Hometown :** Seattle, Washington
 
-![friends](image.png)
+![friends](friends.png)
 ## *Fun Facts :* 
 **a Favorite Movie :** Aquamarine  
 **Favorite Cuisines :** Indina/Italian/Thai  
@@ -14,7 +14,7 @@
 a famous quote from the show: 
 >"We were on a break"
 
-![charlie](image.png)
+![charlie](charlie.jpg)
 ## *Here are 5 more random facts about me:* 
 1. I have 1 sibling, we are 4 years apart, her name is Riya and she lives in san diego!
 2. My family has 1 dog, she is an australian labradoodle and her name is Charlie
@@ -22,7 +22,6 @@ a famous quote from the show:
 4. For the first 3 years of my life I lived in Ghana, Africa
 5. Me and my mom loce doing the Wordle
 
-![family](image.png)
 ## *To Do List:* 
 - [ ] Submit Lab 1
 - [x] Make slack account
