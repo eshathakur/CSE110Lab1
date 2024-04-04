@@ -6,7 +6,8 @@
 - **Zodiac Sign :** Libra  
 - **School :** UCSD  
 - **Hometown :** Seattle, Washington
-
+  
+**Jump to my To-Do List Section :** [To-Do List](#to-do-list)  
 
 ![friends](friends.png)
 ## *Fun Facts :* 
@@ -34,7 +35,6 @@ a famous quote from the show:
 
 **First line of code I ever learned :** ``System.out.print('Hello World!')``  
 **An Online Store I Love :** [Princess Polly](https://us.princesspolly.com)  
-**Link to my About Me Section :** [About Me](#about-me)  
 **Link to a Surprise File :**[Surprise](./Other.md)
 
 
