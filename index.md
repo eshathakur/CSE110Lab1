@@ -14,7 +14,6 @@
 a famous quote from the show: 
 >"We were on a break"
 
-![charlie](charlie.jpg)
 ## *Here are 5 more random facts about me:* 
 1. I have 1 sibling, we are 4 years apart, her name is Riya and she lives in san diego!
 2. My family has 1 dog, she is an australian labradoodle and her name is Charlie
